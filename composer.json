@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=8.0",
-        "hisorange/browser-detect": "^4.5"
+        "hisorange/browser-detect": "^5.0"
     },
     "require-dev": {
         "orchestra/testbench": "^7.15",
